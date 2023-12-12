@@ -1,0 +1,20 @@
+Guide: https://www.youtube.com/playlist?list=PLbbLC0BLaGjpyzN1rg-gK4dUqbn8eJQq4
+Discord Developer Portal: https://discord.com/developers/docs/game-sdk/networking#sendmessage
+discord.js Documentation: https://discordjs-fork.readthedocs.io/en/latest/docs_message.html
+Discord Special Format Embeds: https://stackoverflow.com/questions/52042695/discord-bot-role-mentioning
+Color Palette: https://www.color-hex.com/color-palette/14887
+Embeds: https://discordjs.guide/popular-topics/embeds.html#embed-preview
+Modules in Node.js: https://www.tutorialsteacher.com/nodejs/nodejs-module-exports 
+DiscordAPIError[50001]: Missing Access: https://flutterq.com/solved-discordapierror50001-missing-access/ 
+"Cannot read properties of undefined": https://www.bitovi.com/blog/how-to-avoid-the-infamous-cannot-read-properties-of-undefined-with-typescript
+& https://stackoverflow.com/questions/69245416/typeerror-cannot-read-properties-of-undefined-reading-guild
+Intents: https://discordjs.guide/popular-topics/intents.html#privileged-intents
+& https://discord.com/developers/docs/topics/gateway#gateway-intents
+& https://discord.js.org/#/docs/main/stable/class/Intents 
+.save() not a function: https://newbedev.com/mongoose-getting-typeerror-user-save-is-not-a-function-what-is-wrong 
+Slash Command GUI: https://slash-commands-gui.androz2091.fr/settings 
+JS Dictionaries: https://flexiple.com/javascript-dictionary/
+Remove Spaces in String: https://www.geeksforgeeks.org/how-to-remove-spaces-from-a-string-using-javascript/
+API Source: https://history.muffinlabs.com/ 
+Embed Button Pages: https://www.youtube.com/watch?v=EZr4VgSudGQ 
+Better Guide: https://discordjs.guide/#before-you-begin 
